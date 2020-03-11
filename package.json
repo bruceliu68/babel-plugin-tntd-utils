@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:fish-uncle/babel-plugin-demand-loading.git"
+    "url": "git@github.com:bruceliu68/babel-plugin-tntd-utils.git"
   }
 }
