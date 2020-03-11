@@ -1,0 +1,26 @@
+{
+  "name": "babel-plugin-tntd-utils",
+  "version": "0.0.1",
+  "description": "按需加载",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel-plugin",
+    "tntd-utils"
+  ],
+  "author": "bruceliu",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/types": "^7.3.0"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fish-uncle/babel-plugin-demand-loading.git"
+  }
+}
