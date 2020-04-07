@@ -11,7 +11,7 @@ npm install babel-plugin-tntd-utils --save-dev
     [
       "babel-plugin-tntd-utils",
       {
-        "library": "yournpm"
+        "library": "yournpm" // 支持数组["yournpm", "yournpm2"]
       },
       "syntax-decorators"
     ],
